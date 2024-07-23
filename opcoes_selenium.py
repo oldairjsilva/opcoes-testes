@@ -6,6 +6,7 @@
 # sudo apt update
 # sudo apt install -y google-chrome-stable
 # google-chrome --version
+# https://chatgpt.com/share/6873f6f2-76fb-47a0-8462-03749bd81c8a
 
 
 from selenium import webdriver
